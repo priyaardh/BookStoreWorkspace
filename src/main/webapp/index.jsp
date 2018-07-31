@@ -59,7 +59,7 @@ span.psw {
 	    <label><b>Password</b></label>
 	    <input type="password" placeholder="Enter Password" name="password" required>
 	        
-	    <button type="submit">LOGIN</button>
+	    <button type="submit">Login</button>
 	  </div>
 	
 	  <div class="container" style="background-color:#f1f1f1">
